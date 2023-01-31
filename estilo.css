@@ -1,0 +1,41 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+nav li {
+  margin: 0 40px;
+}
+
+nav a {
+  color: #000;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav li {
+    margin: 10px 0;
+  }
+
+  nav a {
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  input[type="text"], input[type="email"], input[type="password"] {
+    font-size: 18px;
+    padding: 12px 20px;
+  }
+}
