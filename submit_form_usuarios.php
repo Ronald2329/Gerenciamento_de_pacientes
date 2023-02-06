@@ -12,10 +12,10 @@ if(isset($_POST['nome']) && isset($_POST['email']) && isset($_POST['senha'])){
     // validar dados
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo "Preencha um e-mail válido! <br>";
-        echo ('Para voltar a tela de login clique aqui!! <a  href = "index.php" '); 
+        header("Location: index.php");
     }else if(strlen($senha) < 8){
         echo "A senha deve ter no mínimo 8 caracteres! <br>";
-        echo ('Para voltar a tela de login clique aqui!! <a  href = "index.php"<br>'); 
+        header("Location: index.php");
     }else if(strlen($nome) == 0){
         echo "Preencha o seu nome!";
         echo ('Para voltar a tela de login clique aqui!! <a  href = "index.php" <br>'); 
@@ -30,6 +30,8 @@ if(isset($_POST['nome']) && isset($_POST['email']) && isset($_POST['senha'])){
             $usuario = $result->fetch_assoc();
             $_SESSION['usuario'] = $usuario;
             header("Location: painel.php");      
+        }else{
+            header("Location: index.php");
         }
     }
 }else{

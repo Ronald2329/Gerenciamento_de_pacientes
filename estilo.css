@@ -1,3 +1,29 @@
+.Verificador{
+  padding: 450px;
+  font-size: 20px;
+}
+.Enviar{
+  text-align: center;
+}
+
+body{
+      background-image: url(LogoSample_ByTailorBrands.jpg);
+  }
+  @media screen and (max-width: 600px) {
+
+    .Verificador{
+      padding: 250px;
+      font-size: 200px;
+    }
+    .Enviar{
+      text-align: center;
+    }
+    
+    body{
+          background-image: url(LogoSample_ByTailorBrands_celular.jpg);
+      }
+
+  }
 nav {
   display: flex;
   justify-content: space-between;
@@ -35,7 +61,7 @@ nav a {
 
 @media screen and (max-width: 768px) {
   input[type="text"], input[type="email"], input[type="password"] {
-    font-size: 18px;
-    padding: 12px 20px;
+    font-size: 20px;
+    padding: 20px 10px;
   }
 }
