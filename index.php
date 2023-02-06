@@ -5,19 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 	 <link rel="stylesheet" type="text/css" href="estilo.css">
-    <style>
-        .Verificador{
-            padding: 450px;
-            font-size: 20px;
-        }
-        .Enviar{
-            text-align: center;
-        }
 
-        body{
-                background-image: url(LogoSample_ByTailorBrands.jpg);
-            }
-    </style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 </head>
 <body>
