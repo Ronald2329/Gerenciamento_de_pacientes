@@ -30,7 +30,7 @@ $conn->close();
 </head>
 <body>
     <nav>
-    <ul class="menu-icon" onclick="toggleMenu()">
+    <ul>
     <li><a href="painel.php">Home</a></li>
     <li><a href="inscrição.php">Cadastrar novos pacientes</a></li>
     <li><a href="Remover.php">Remover pacientes</a></li>

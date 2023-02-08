@@ -9,6 +9,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 </head>
 <body>
+<nav>
+  <ul>
+    <li><a href="painel.php">Home</a></li>
+    <li><a href="inscrição.php">Cadastrar novos pacientes</a></li>
+    <li><a href="Remover.php">Remover pacientes</a></li>
+    <li><a href="exibição.php">Exibição dos pacientes</a></li>
+    <li><a href="Exibir_visitas.php">Exibir todas as visitas</a></li>
+    <li><a href="Reescrever.php">Atualizar pacientes já cadastrados</a></li>
+    <li><a href="Logout.php">Sair</a></li>
+
+  </ul>
+</nav>
     <form class="Verificador" action="submit_form_usuarios.php" method="post">
         <label>Nome:</label>
         <input type="text" id="nome" name="nome"><br>

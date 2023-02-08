@@ -32,11 +32,11 @@ if ($result->num_rows > 0) {
 <html>
 <head>
     <title>Informações do Paciente</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	 <link rel="stylesheet" type="text/css" href="estilo.css">
     <style>
         /* Adicione aqui a formatação CSS da sua preferência */
 
-
-    <style>
 			* {box-sizing: border-box;}
 
 			body {font-family: Arial, Helvetica, sans-serif;}
@@ -75,12 +75,17 @@ if ($result->num_rows > 0) {
 			@media (max-width: 600px) { table caption{display:none; }}
                     
 
-		</style>
-</style>
+	</style>
 
-    </style>
 </head>
 <body>
+
+<ul>
+    <li><a href="exibição.php"> Voltar para Exibição dos pacientes</a></li>
+    <li><a href="Logout.php">Sair</a></li>
+  </ul>
+</nav><br><br><br>
+
     <h1>Informações do Paciente <?php echo $nome?></h1>
     <table>
         <tr>

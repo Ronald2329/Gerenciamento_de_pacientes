@@ -1,17 +1,10 @@
+
 .Verificador{
   padding: 450px;
   font-size: 20px;
 }
 .Enviar{
   text-align: center;
-}
-.menu-icon{
-  text-transform: uppercase;
-    height: 100%;
-    display: inline;
-    justify-content: space-around;
-    align-items: center;
-    font-size: 1.8rem;
 }
 
   @media screen and (max-width: 600px) {
@@ -25,32 +18,72 @@
     }
 
   }
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  padding: 20px;
+  nav {
+    
+    text-align: center;
+    padding: 12px;
+    text-transform: uppercase;
+    height: 100%;
+    justify-content: space-between;
+    background-color: blue;
+  }
+
+  nav ul{
+    display: flex;
+    align-items: center;
+    padding: 0;
+  margin: 0;
+  }
+
+  nav li {
+    margin: 0 40px;
+    list-style: none;
+    flex: 1;
+  }
+  
+  nav a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+.reescrevendo{
+  padding-left: 450px;
+
+}
+.removendo{
+  padding-left: 450px;
+  
+}
+.inscrição{
+  padding-left: 450px;
 }
 
-nav li {
-  margin: 0 40px;
+@media screen and (max-width: 768px ){
+  .reescrevendo{
+    padding-left: 12px;
+  
+  }
+  .removendo{
+    padding-left: 12px;
+    
+  }
+  .inscrição{
+    padding-left: 12px;
+  }
 }
-
-nav a {
-  color: #000;
-  text-decoration: none;
-  font-size: 18px;
-}
-
-
-
 @media screen and (max-width: 768px) {
   nav {
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
+  text-align: center;
+  padding: 20px;
   }
-
+  nav ul{
+    display: inline;
+    align-items: center;
+  }
   nav li {
     margin: 10px 0;
   }

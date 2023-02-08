@@ -57,7 +57,7 @@
             
             
   <nav>
-        <ul class="menu-icon" onclick="toggleMenu()">
+        <ul>
     <li><a href="painel.php">Home</a></li>
     <li><a href="inscrição.php">Cadastrar novos pacientes</a></li>
     <li><a href="Remover.php">Remover pacientes</a></li>
@@ -65,10 +65,7 @@
     <li><a href="Exibir_visitas.php">Exibição todas as visitas</a></li>
     <li><a href="Reescrever.php">Atualizar pacientes já cadastrados</a></li>
     <li><a href="Logout.php">Sair</a></li>
-
-  </ul>
-  <a href="painel.php" class="menu-icon" onclick="toggleMenu()">&#9776;</a>
-</nav>
+</nav><br><br><br>
 
       <?php
 

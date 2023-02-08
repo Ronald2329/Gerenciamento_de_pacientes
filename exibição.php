@@ -56,7 +56,7 @@
             
             
   <nav>
-        <ul class="menu-icon" onclick="toggleMenu()">
+        <ul>
     <li><a href="painel.php">Home</a></li>
     <li><a href="inscrição.php">Cadastrar novos pacientes</a></li>
     <li><a href="Remover.php">Remover pacientes</a></li>
@@ -66,7 +66,6 @@
     <li><a href="Logout.php">Sair</a></li>
 
   </ul>
-  <a href="painel.php" class="menu-icon" onclick="toggleMenu()">&#9776;</a>
 </nav>
 
       <?php
@@ -94,7 +93,7 @@
                 echo "<td>" . $row["idade"]. "</td>";
                 echo "<td>" . $row["telefone"]. "</td>";
                 echo "<td>" . $row["informacoes"]. "</td>";
-                echo "<td><a href='pacientes.php?id=" . $row["id"] . "'>" . $row["nome"]. "</a></td> ";
+                echo "<td><a href='pacientes.php?id=" . $row["id"] . "' target = '_blank'>" . $row["nome"]. "</a></td> ";
 
                 echo "</tr>";
     }

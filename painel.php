@@ -21,7 +21,7 @@
     <li><a href="Logout.php">Sair</a></li>
 
   </ul>
-</nav>
+</nav><br><br><br>
         <h1> Bem vinda a tela incial do site de gerenciamento de pacientes!</h1>
     </body>
 </html>
