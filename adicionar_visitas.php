@@ -11,7 +11,7 @@ $query = "INSERT INTO visitas(lugar,paciente_id,informacoes) VALUES ('$lugar','$
 $result = $conn->query($query);
 
 if($result === TRUE){
-    echo("<a href = 'pacientes.php?id=".$id."'> Clique aqui para ser redirecionado para tela do paciente");
+    header("Location: exibição.php");
 }else{
     echo 'erro:' . $query . "<br>";
 }

@@ -5,23 +5,24 @@
 .Enviar{
   text-align: center;
 }
+.menu-icon{
+  text-transform: uppercase;
+    height: 100%;
+    display: inline;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.8rem;
+}
 
-body{
-      background-image: url(LogoSample_ByTailorBrands.jpg);
-  }
   @media screen and (max-width: 600px) {
 
     .Verificador{
-      padding: 250px;
-      font-size: 200px;
+      padding: 100px;
+      font-size: 20px;
     }
     .Enviar{
       text-align: center;
     }
-    
-    body{
-          background-image: url(LogoSample_ByTailorBrands_celular.jpg);
-      }
 
   }
 nav {
