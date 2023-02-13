@@ -82,7 +82,8 @@ if ($result->num_rows > 0) {
 
 </head>
 <body>
-
+    
+<nav>
 <ul>
     <li><a href="exibição.php"> Voltar para Exibição dos pacientes</a></li>
     <li><a href="Logout.php">Sair</a></li>
