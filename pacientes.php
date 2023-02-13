@@ -33,7 +33,10 @@ if ($result->num_rows > 0) {
 <head>
     <title>Informações do Paciente</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-	 <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+    <link rel="stylesheet" type="text/css" href="estilo.css">
     <style>
         /* Adicione aqui a formatação CSS da sua preferência */
 

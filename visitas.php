@@ -11,12 +11,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <style> body {height: 50px; padding: 100px;text-align: center;}</style>
     
 </head>
 <body>
     <nav>
-        <ul class="menu-icon" onclick="toggleMenu()">
+        <ul>
     <li><a href="painel.php">Home</a></li>
     <li><a href="inscrição.php">Cadastrar novos pacientes</a></li>
     <li><a href="Remover.php">Remover pacientes</a></li>
