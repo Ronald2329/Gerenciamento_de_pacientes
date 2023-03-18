@@ -1,0 +1,21 @@
+C:\Users\ronal\source\repos\Projetinho qualquer\bin\Debug\Projetinho qualquer.exe.config
+C:\Users\ronal\source\repos\Projetinho qualquer\bin\Debug\Projetinho qualquer.exe
+C:\Users\ronal\source\repos\Projetinho qualquer\bin\Debug\Projetinho qualquer.pdb
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.csproj.AssemblyReference.cache
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho_qualquer.Form1.resources
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho_qualquer.Properties.Resources.resources
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.csproj.GenerateResource.cache
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.exe
+C:\Users\ronal\source\repos\Projetinho qualquer\obj\Debug\Projetinho qualquer.pdb
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\bin\Debug\Projetinho qualquer.exe.config
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\bin\Debug\Projetinho qualquer.exe
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.csproj.AssemblyReference.cache
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho_qualquer.Form1.resources
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho_qualquer.Properties.Resources.resources
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.csproj.GenerateResource.cache
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.exe
+C:\Users\ronal\Source\Repos\Ronald2329\Gerenciamento_de_pacientes\GERENCIAMENTO-_INTRANET\obj\Debug\Projetinho qualquer.pdb
