@@ -94,7 +94,7 @@
                 echo "<td>" . $row["idade"]. "</td>";
                 echo "<td>" . $row["telefone"]. "</td>";
                 echo "<td>" . $row["informacoes"]. "</td>";
-                echo "<td><a href='pacientes.php?id=" . $row["id"] . "' target = '_blank'>" . $row["nome"]. "</a></td> ";
+                echo "<td><a href='pacientes.php?id=" . $row["id"] . "'>" . $row["nome"]. "</a></td> ";
 
                 echo "</tr>";
     }
