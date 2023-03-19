@@ -1,0 +1,11 @@
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\bin\Debug\Gerenciamento_de_clientes_INTRANET.exe.config
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\bin\Debug\Gerenciamento_de_clientes_INTRANET.exe
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\bin\Debug\Gerenciamento_de_clientes_INTRANET.pdb
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.csproj.AssemblyReference.cache
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.Form1.resources
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.Properties.Resources.resources
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.csproj.GenerateResource.cache
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.exe
+C:\Users\ronal\source\repos\Gerenciamento_de_clientes_INTRANET\obj\Debug\Gerenciamento_de_clientes_INTRANET.pdb
